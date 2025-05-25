@@ -1,16 +1,12 @@
-## Hi there 👋
+### 👋 Hi there, I'm Nagao!
+- 🔭 I’m currently working on Music Recommendation Algorithms
+- 🌱 I’m currently learning PhP and Message Broker Tech
+- 💬 Ask me about any tech related stuff! 
+- 📫 How to reach me: fh.nagao@gmail.com
 
-<!--
-**Fehl/Fehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 🛠️ Tech Stack:
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
