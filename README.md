@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Nagao
 - 🔭 I’m currently working on Music Recommendation Algorithms
-- 🌱 I’m currently learning PhP and Message Broker Techs
+- 🌱 I’m currently learning PhP and Message Broker for Event Driven Systems
 - 💬 Ask me about any tech related stuff! 
 - 📫 How to reach me: fh.nagao@gmail.com
 
