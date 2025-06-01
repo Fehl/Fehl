@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning PHP and Message Broker for Event Driven Systems
 - 💬 Ask me about any tech related stuff! 
 - 📫 How to reach me: fh.nagao@gmail.com
-  
+
+<br>
 
 - ### 🛠️ Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
