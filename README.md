@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Nagao's GitHub!</h1>
 
-- 🔭 I’m currently working on Music Recommendation Algorithms
-- 🌱 I’m currently learning PHP and Message Broker for Event Driven Systems
+- 🔭 I’m currently working on building Optimized Algorithms
+- 🌱 I’m currently learning Message Broker for Event Driven Systems
 - 💬 Ask me about any tech related stuff! 
 - 📫 How to reach me: fh.nagao@gmail.com
  
