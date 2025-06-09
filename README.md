@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Message Broker for Event Driven Systems
 - 💬 Ask me about any tech related stuff! 
 - 📫 How to reach me: fh.nagao@gmail.com
- 
+  
 <br>
 
 - ### 🛠️ Languages:
